@@ -1,1 +1,1 @@
-# Responsive-Dashboard-with-React-Typescrit-CSS-
+# Responsive-Dashboard-with-Next-Typescrit-CSS-Project-Management
